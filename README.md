@@ -1,7 +1,7 @@
 # Aniyomi Extension Virus Scans
 
 ## Overview
-Welcome to the **Aniyomi Extension Scans** page! This site is dedicated to providing users with comprehensive virus scan results of extensions from [Aniyomi Extensions](https://github.com/Aniyomi/extensions). We utilize VirusTotal to ensure that each extension is thoroughly checked for any potential security threats.
+Welcome to the **Aniyomi Extension Scans** page! This site is dedicated to providing users with comprehensive virus scan results of extensions from [Aniyomi Extensions](https://github.com/aniyomiorg/aniyomi-extensions). We utilize VirusTotal to ensure that each extension is thoroughly checked for any potential security threats.
 
 ## Features
 - **Virus Scan Results:** All APKs from the Aniyomi Extensions repository are scanned, and their results are displayed here.
