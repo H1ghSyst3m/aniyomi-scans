@@ -2257,5 +2257,27 @@
         "file_type": "Android",
         "file_size": 44597,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.megaflix-v14.12.apk",
+        "hash": "5b6f9c32a2f233d5f507224e75db8a4ca0900c4b00e3aebbabbf271e2b32fc1a",
+        "link": "https://www.virustotal.com/gui/file/5b6f9c32a2f233d5f507224e75db8a4ca0900c4b00e3aebbabbf271e2b32fc1a",
+        "scan_date": 1707023325,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 650754,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-sr.animesrbija-v14.7.apk",
+        "hash": "fc7cf92ba6b1cfa0a1a5b374e9f7519f574e6abb24034222089e3912375ba432",
+        "link": "https://www.virustotal.com/gui/file/fc7cf92ba6b1cfa0a1a5b374e9f7519f574e6abb24034222089e3912375ba432",
+        "scan_date": 1707023265,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 686149,
+        "detected_by": {}
     }
 ]
