@@ -2158,5 +2158,104 @@
         "file_type": "Android",
         "file_size": 48399,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-hi.animesaga-v14.10.apk",
+        "hash": "e5a3dc95fcf77e5b777cb5fcf84ebaecb7871bf315e0be06ac86fe7ef32c9548",
+        "link": "https://www.virustotal.com/gui/file/e5a3dc95fcf77e5b777cb5fcf84ebaecb7871bf315e0be06ac86fe7ef32c9548",
+        "scan_date": 1707022710,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 66233,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.animeindo-v14.11.apk",
+        "hash": "390efc59320d1d79eea027f47518ea0cd883914e1a79e4a60a14702956c5439e",
+        "link": "https://www.virustotal.com/gui/file/390efc59320d1d79eea027f47518ea0cd883914e1a79e4a60a14702956c5439e",
+        "scan_date": 1707022712,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 91807,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesdigital-v14.2.apk",
+        "hash": "aec7eaaee912eba5944434aec2b74c1ef4e79f08dca2e402cb59669fe5e25d90",
+        "link": "https://www.virustotal.com/gui/file/aec7eaaee912eba5944434aec2b74c1ef4e79f08dca2e402cb59669fe5e25d90",
+        "scan_date": 1707022728,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 138092,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.betteranime-v14.9.apk",
+        "hash": "e8d5414e22ce9078a8cc3eed0d02642ffa5fe789c8e867916e77d054b918c15c",
+        "link": "https://www.virustotal.com/gui/file/e8d5414e22ce9078a8cc3eed0d02642ffa5fe789c8e867916e77d054b918c15c",
+        "scan_date": 1707022736,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 92763,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.tranimeci-v14.3.apk",
+        "hash": "9aa4773894943920fe20a65fe852d58562fe0ef4e7382b5c37e9adb73fcdb20f",
+        "link": "https://www.virustotal.com/gui/file/9aa4773894943920fe20a65fe852d58562fe0ef4e7382b5c37e9adb73fcdb20f",
+        "scan_date": 1707022752,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 65565,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.tranimeizle-v14.13.apk",
+        "hash": "f3d4962864e01addd7881f98b1c6aa5bae2b345ccfafbf891206b79c1ec6e3c5",
+        "link": "https://www.virustotal.com/gui/file/f3d4962864e01addd7881f98b1c6aa5bae2b345ccfafbf891206b79c1ec6e3c5",
+        "scan_date": 1707022753,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 85548,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.turkanime-v14.20.apk",
+        "hash": "4fd3f85c4984af671caeaa3c9ddd646644fd2e2fe3789508780b6e4f2a3ad9f5",
+        "link": "https://www.virustotal.com/gui/file/4fd3f85c4984af671caeaa3c9ddd646644fd2e2fe3789508780b6e4f2a3ad9f5",
+        "scan_date": 1707022758,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 806199,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-uk.uakino-v14.1.apk",
+        "hash": "b1d75cfdba70fefa41b342374d34553121eaefa1e666ab20dcc834403c8edbb5",
+        "link": "https://www.virustotal.com/gui/file/b1d75cfdba70fefa41b342374d34553121eaefa1e666ab20dcc834403c8edbb5",
+        "scan_date": 1707022759,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 59471,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-uk.ufdub-v14.1.apk",
+        "hash": "129643b149ddfa1546c6dc1adb00ee5ba3f7cd7a2a82f797c9600945aca0bfd1",
+        "link": "https://www.virustotal.com/gui/file/129643b149ddfa1546c6dc1adb00ee5ba3f7cd7a2a82f797c9600945aca0bfd1",
+        "scan_date": 1707022761,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 44597,
+        "detected_by": {}
     }
 ]
