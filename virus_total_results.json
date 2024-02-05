@@ -2323,5 +2323,16 @@
         "file_type": "Android",
         "file_size": 82518,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.aniplay-v14.7.apk",
+        "hash": "101d32a26fbfc99ab0c287c191bcdd3db8d95d96abe518bfc95ad40d585b0e38",
+        "link": "https://www.virustotal.com/gui/file/101d32a26fbfc99ab0c287c191bcdd3db8d95d96abe518bfc95ad40d585b0e38",
+        "scan_date": 1707173351,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 72235,
+        "detected_by": {}
     }
 ]
