@@ -2279,5 +2279,49 @@
         "file_type": "Android",
         "file_size": 686149,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.oploverz-v14.23.apk",
+        "hash": "4c577cffa447d86471381998c007d96880c267c0c1eaf34a2610177ce05e919e",
+        "link": "https://www.virustotal.com/gui/file/4c577cffa447d86471381998c007d96880c267c0c1eaf34a2610177ce05e919e",
+        "scan_date": 1707173021,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 138683,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.samehadaku-v14.5.apk",
+        "hash": "cb2fcab9131dc22f32080454c57a06e5226876965842fbe9653398e17e8625b4",
+        "link": "https://www.virustotal.com/gui/file/cb2fcab9131dc22f32080454c57a06e5226876965842fbe9653398e17e8625b4",
+        "scan_date": 1707173025,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 93556,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animefire-v14.6.apk",
+        "hash": "74d6e947e6a182126bcada64f32f0d700c5d9c83d05dd3a3a81059c56bcaa4fd",
+        "link": "https://www.virustotal.com/gui/file/74d6e947e6a182126bcada64f32f0d700c5d9c83d05dd3a3a81059c56bcaa4fd",
+        "scan_date": 1707173029,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 93247,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animestc-v14.5.apk",
+        "hash": "ff540937a1da3e619e2b6f7e854c264f67b9daf7fa2bd79ea3104431b83ad4a4",
+        "link": "https://www.virustotal.com/gui/file/ff540937a1da3e619e2b6f7e854c264f67b9daf7fa2bd79ea3104431b83ad4a4",
+        "scan_date": 1707173032,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 82518,
+        "detected_by": {}
     }
 ]
