@@ -2763,5 +2763,27 @@
         "file_type": "Android",
         "file_size": 807656,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.arabseed-v14.11.apk",
+        "hash": "d0e8e25ae98e534446c5530f4e4c75194a854f091a03ba15a33e0ce21677f3ac",
+        "link": "https://www.virustotal.com/gui/file/d0e8e25ae98e534446c5530f4e4c75194a854f091a03ba15a33e0ce21677f3ac",
+        "scan_date": 1707174595,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 80672,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.aniworld-v14.21.apk",
+        "hash": "2432724d8fec6ac05c4b6ed9015689c66f684f74cbbae52f04a3c265d49e1826",
+        "link": "https://www.virustotal.com/gui/file/2432724d8fec6ac05c4b6ed9015689c66f684f74cbbae52f04a3c265d49e1826",
+        "scan_date": 1707174601,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 154331,
+        "detected_by": {}
     }
 ]
