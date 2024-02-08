@@ -2807,5 +2807,71 @@
         "file_type": "Android",
         "file_size": 139066,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.missav-v14.7.apk",
+        "hash": "af5ceab75d98c831b9413f0c9a58941604984781b1da0294b64f978795e75207",
+        "link": "https://www.virustotal.com/gui/file/af5ceab75d98c831b9413f0c9a58941604984781b1da0294b64f978795e75207",
+        "scan_date": 1707421607,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 63449,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.torrentioanime-v14.2.apk",
+        "hash": "5d0f448a2ce35d25eba91bb88eaac6215c13089e17454744d4d64888738b09fd",
+        "link": "https://www.virustotal.com/gui/file/5d0f448a2ce35d25eba91bb88eaac6215c13089e17454744d4d64888738b09fd",
+        "scan_date": 1707421610,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 73113,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.minioppai-v14.6.apk",
+        "hash": "349b8e6b1e2b812c62fa7e084eb7c05b4749860ec79439ab248b030ed7b3b1f4",
+        "link": "https://www.virustotal.com/gui/file/349b8e6b1e2b812c62fa7e084eb7c05b4749860ec79439ab248b030ed7b3b1f4",
+        "scan_date": 1707421612,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 102770,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesdigital-v14.3.apk",
+        "hash": "211de1204e8dbd44559aaa39de27d9e425f6ea460343d74e6ba0b76894db0f84",
+        "link": "https://www.virustotal.com/gui/file/211de1204e8dbd44559aaa39de27d9e425f6ea460343d74e6ba0b76894db0f84",
+        "scan_date": 1707421614,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 138921,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.rinecloud-v14.8.apk",
+        "hash": "ec6d5dd5266f491b003367e04211b785d484f5afa6dac43235e8c6184ade330c",
+        "link": "https://www.virustotal.com/gui/file/ec6d5dd5266f491b003367e04211b785d484f5afa6dac43235e8c6184ade330c",
+        "scan_date": 1707421615,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 83520,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.hdfilmcehennemi-v14.11.apk",
+        "hash": "4d244af14c20a1f572d2e8bfe085c2ca24a3ed49fa3ba7919b01552b4f0c4ee8",
+        "link": "https://www.virustotal.com/gui/file/4d244af14c20a1f572d2e8bfe085c2ca24a3ed49fa3ba7919b01552b4f0c4ee8",
+        "scan_date": 1707421617,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 89912,
+        "detected_by": {}
     }
 ]
