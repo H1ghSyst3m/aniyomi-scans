@@ -2873,5 +2873,16 @@
         "file_type": "Android",
         "file_size": 89912,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.hackstore-v14.4.apk",
+        "hash": "1784d51b6ef5a072cd831a0df82c4f330fe9f03aff88b6ee7de4cf15842c2e4a",
+        "link": "https://www.virustotal.com/gui/file/1784d51b6ef5a072cd831a0df82c4f330fe9f03aff88b6ee7de4cf15842c2e4a",
+        "scan_date": 1707509720,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 92088,
+        "detected_by": {}
     }
 ]
