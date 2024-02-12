@@ -2884,5 +2884,16 @@
         "file_type": "Android",
         "file_size": 92088,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.samehadaku-v14.6.apk",
+        "hash": "0152b22c1f7a12f6ab7d235e2d3244bd94bf5a9369431f50347c8ae168290dac",
+        "link": "https://www.virustotal.com/gui/file/0152b22c1f7a12f6ab7d235e2d3244bd94bf5a9369431f50347c8ae168290dac",
+        "scan_date": 1707746098,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 93925,
+        "detected_by": {}
     }
 ]
