@@ -3568,5 +3568,49 @@
         "file_type": "Android",
         "file_size": 120727,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.jellyfin-v14.13.apk",
+        "hash": "362e470e56624abe5046c2f09e825b7241917ddc3c6b0414747ce3da62a7c338",
+        "link": "https://www.virustotal.com/gui/file/362e470e56624abe5046c2f09e825b7241917ddc3c6b0414747ce3da62a7c338",
+        "scan_date": 1707938160,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 102124,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.cineclix-v14.10.apk",
+        "hash": "ad3da57333f47fa1d80fa8dba02d35c0fcf18ef37afd63e510d558164d6ed823",
+        "link": "https://www.virustotal.com/gui/file/ad3da57333f47fa1d80fa8dba02d35c0fcf18ef37afd63e510d558164d6ed823",
+        "scan_date": 1707938175,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 698903,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.einfach-v14.4.apk",
+        "hash": "9f469c9ae388a42d6e3e2cd94ce44c6c680140004e22fadb39219dce819026a5",
+        "link": "https://www.virustotal.com/gui/file/9f469c9ae388a42d6e3e2cd94ce44c6c680140004e22fadb39219dce819026a5",
+        "scan_date": 1707938178,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 662977,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.pelisplushd-v14.50.apk",
+        "hash": "719c2d42b0f16ffd78fc333ee68c1bc16e1f5e068d88525b26a0e753e22c87bd",
+        "link": "https://www.virustotal.com/gui/file/719c2d42b0f16ffd78fc333ee68c1bc16e1f5e068d88525b26a0e753e22c87bd",
+        "scan_date": 1707938223,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 676869,
+        "detected_by": {}
     }
 ]
