@@ -3612,5 +3612,16 @@
         "file_type": "Android",
         "file_size": 676869,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesvision-v14.25.apk",
+        "hash": "30180aa825d27dd5f7ead33cd14afb3f59630374d2e3e9fed9a016d41e3d1919",
+        "link": "https://www.virustotal.com/gui/file/30180aa825d27dd5f7ead33cd14afb3f59630374d2e3e9fed9a016d41e3d1919",
+        "scan_date": 1708006233,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 90026,
+        "detected_by": {}
     }
 ]
