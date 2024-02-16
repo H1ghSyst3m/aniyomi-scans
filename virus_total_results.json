@@ -3623,5 +3623,16 @@
         "file_type": "Android",
         "file_size": 90026,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.animeler-v14.10.apk",
+        "hash": "f7a6aa3bb3197370c6524308b958362def58c23a53d72c2a0c677585b2da8eb7",
+        "link": "https://www.virustotal.com/gui/file/f7a6aa3bb3197370c6524308b958362def58c23a53d72c2a0c677585b2da8eb7",
+        "scan_date": 1708122329,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 135724,
+        "detected_by": {}
     }
 ]
