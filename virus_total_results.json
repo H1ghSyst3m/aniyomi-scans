@@ -3678,5 +3678,181 @@
         "file_type": "Android",
         "file_size": 678934,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.egydead-v14.12.apk",
+        "hash": "3cfc0b767bb6941110cda5d32d5185454d6e5d1c4b862297939e9527166a84a8",
+        "link": "https://www.virustotal.com/gui/file/3cfc0b767bb6941110cda5d32d5185454d6e5d1c4b862297939e9527166a84a8",
+        "scan_date": 1709849405,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 63747,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.tuktukcinema-v14.18.apk",
+        "hash": "bec3a705240e07bb2afd140103dcb7c807f859ce204e3cd270a1e724e310b758",
+        "link": "https://www.virustotal.com/gui/file/bec3a705240e07bb2afd140103dcb7c807f859ce204e3cd270a1e724e310b758",
+        "scan_date": 1709849410,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 662009,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.ask4movie-v14.12.apk",
+        "hash": "d83cbeac7094e8e165f723f4af0d7bb91ca7844dadf7c5b53363cfef6dad866e",
+        "link": "https://www.virustotal.com/gui/file/d83cbeac7094e8e165f723f4af0d7bb91ca7844dadf7c5b53363cfef6dad866e",
+        "scan_date": 1709849414,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 641665,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.dramacool-v14.48.apk",
+        "hash": "6d6b96929c4e01b44906a952d68780bfe935c89eb0a92ab78a843b2a8496f596",
+        "link": "https://www.virustotal.com/gui/file/6d6b96929c4e01b44906a952d68780bfe935c89eb0a92ab78a843b2a8496f596",
+        "scan_date": 1709849417,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 80640,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.fmovies-v14.21.apk",
+        "hash": "e036540f7b7424170f3598ff1a26f0d946d6c0e45a0d48f387af9782f52b103c",
+        "link": "https://www.virustotal.com/gui/file/e036540f7b7424170f3598ff1a26f0d946d6c0e45a0d48f387af9782f52b103c",
+        "scan_date": 1709849419,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 96791,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.kickassanime-v14.38.apk",
+        "hash": "ac257c6a8b591bc83b7c90ed65e8fb0e9d27dbc21d4711c909523f24872ec991",
+        "link": "https://www.virustotal.com/gui/file/ac257c6a8b591bc83b7c90ed65e8fb0e9d27dbc21d4711c909523f24872ec991",
+        "scan_date": 1709849421,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 94167,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.multimovies-v14.17.apk",
+        "hash": "8fb8feed7004d993686248a49aa379feb2f108381508cc27f8bb8c716d206b0d",
+        "link": "https://www.virustotal.com/gui/file/8fb8feed7004d993686248a49aa379feb2f108381508cc27f8bb8c716d206b0d",
+        "scan_date": 1709849425,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 683990,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.ripcrabbyanime-v14.12.apk",
+        "hash": "824312934050241a312422a19374099d1db480312b6266439446e86a95e20d14",
+        "link": "https://www.virustotal.com/gui/file/824312934050241a312422a19374099d1db480312b6266439446e86a95e20d14",
+        "scan_date": 1709849428,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 61070,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.doramasflix-v14.17.apk",
+        "hash": "d07862535b9263dc631fc8c7c4c6b1dcb69cf8cd6c0ecdcee8380d92b39ea442",
+        "link": "https://www.virustotal.com/gui/file/d07862535b9263dc631fc8c7c4c6b1dcb69cf8cd6c0ecdcee8380d92b39ea442",
+        "scan_date": 1709849430,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 131860,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.locopelis-v14.21.apk",
+        "hash": "bb42bb690b2a3e438087fdc2f1daddc86abb8f16208b644043abfc00baa0833d",
+        "link": "https://www.virustotal.com/gui/file/bb42bb690b2a3e438087fdc2f1daddc86abb8f16208b644043abfc00baa0833d",
+        "scan_date": 1709849449,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 60246,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-fr.animesama-v14.9.apk",
+        "hash": "f07b110243c42a9ffe37414add72941ffb1d581128318f89f7cc2d38ccbc8637",
+        "link": "https://www.virustotal.com/gui/file/f07b110243c42a9ffe37414add72941ffb1d581128318f89f7cc2d38ccbc8637",
+        "scan_date": 1709849452,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 74524,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-hi.yomovies-v14.9.apk",
+        "hash": "3a1c73ca6a26b9641c7c1437676fd1dedb5a825382dde2ffb9f39bd54a75fe6a",
+        "link": "https://www.virustotal.com/gui/file/3a1c73ca6a26b9641c7c1437676fd1dedb5a825382dde2ffb9f39bd54a75fe6a",
+        "scan_date": 1709849456,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 658237,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.otakudesu-v14.25.apk",
+        "hash": "d719b63e36568f3de56553729dc2e6b693b83105aacd0e0b746adac17f95babd",
+        "link": "https://www.virustotal.com/gui/file/d719b63e36568f3de56553729dc2e6b693b83105aacd0e0b746adac17f95babd",
+        "scan_date": 1709849458,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 72892,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.animeunity-v14.8.apk",
+        "hash": "8879b543dab70c03c09f7ca3a61fff39ab4d922bbe87228c90696fc6ab26ba04",
+        "link": "https://www.virustotal.com/gui/file/8879b543dab70c03c09f7ca3a61fff39ab4d922bbe87228c90696fc6ab26ba04",
+        "scan_date": 1709849460,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 73994,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.animeworld-v14.36.apk",
+        "hash": "842574d3a8502568a325f1ea5da76db4afa15dd2afb34cab29717f6ab7d947a0",
+        "link": "https://www.virustotal.com/gui/file/842574d3a8502568a325f1ea5da76db4afa15dd2afb34cab29717f6ab7d947a0",
+        "scan_date": 1709849464,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 670164,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.streamingcommunity-v14.3.apk",
+        "hash": "ce5dac6194f234100c8bfd044c66ae219c19e6ea86e2b6cc7544e134c8f13602",
+        "link": "https://www.virustotal.com/gui/file/ce5dac6194f234100c8bfd044c66ae219c19e6ea86e2b6cc7544e134c8f13602",
+        "scan_date": 1709849466,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 79088,
+        "detected_by": {}
     }
 ]
