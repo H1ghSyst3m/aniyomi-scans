@@ -4448,5 +4448,49 @@
         "file_type": "Android",
         "file_size": 66332,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.googledrive-v14.15.apk",
+        "hash": "1c39a4e393bad160ae3757ae4cc5f1483857c9e57f1551bf3f8d7405d5324288",
+        "link": "https://www.virustotal.com/gui/file/1c39a4e393bad160ae3757ae4cc5f1483857c9e57f1551bf3f8d7405d5324288",
+        "scan_date": 1711350696,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 62974,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.slothanime-v14.1.apk",
+        "hash": "1bc4b06592bcca78df8a293d58afbc2306f602dc9ca8c5dd68b20fe7f8194fe6",
+        "link": "https://www.virustotal.com/gui/file/1bc4b06592bcca78df8a293d58afbc2306f602dc9ca8c5dd68b20fe7f8194fe6",
+        "scan_date": 1711350708,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 60862,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-sr.animebalkan-v14.4.apk",
+        "hash": "d033a2448640c3589f75d6f1d64f93c45cbe8af07a0b7b97988e10ae6656c8d0",
+        "link": "https://www.virustotal.com/gui/file/d033a2448640c3589f75d6f1d64f93c45cbe8af07a0b7b97988e10ae6656c8d0",
+        "scan_date": 1711350719,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 87324,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.turkanime-v14.22.apk",
+        "hash": "175d5310db0e9f85d7ff4aba5ef8a12fae9fa96aa0293c02005eef7ffe76f5b6",
+        "link": "https://www.virustotal.com/gui/file/175d5310db0e9f85d7ff4aba5ef8a12fae9fa96aa0293c02005eef7ffe76f5b6",
+        "scan_date": 1711350723,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 806282,
+        "detected_by": {}
     }
 ]
