@@ -5042,5 +5042,27 @@
         "file_type": "Android",
         "file_size": 89946,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-es.locopelis-v14.22.apk",
+        "hash": "5d7aa715209fd61f1cdca06bf29fad9ef3ea684f0448e1be77ec2d3dcb2810ca",
+        "link": "https://www.virustotal.com/gui/file/5d7aa715209fd61f1cdca06bf29fad9ef3ea684f0448e1be77ec2d3dcb2810ca",
+        "scan_date": 1711742593,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 60291,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.pobreflix-v14.9.apk",
+        "hash": "b4432980d036a72d7c7f4915aec546dad630dae30cb35bdd13afa612da423b4d",
+        "link": "https://www.virustotal.com/gui/file/b4432980d036a72d7c7f4915aec546dad630dae30cb35bdd13afa612da423b4d",
+        "scan_date": 1711742607,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 75375,
+        "detected_by": {}
     }
 ]
