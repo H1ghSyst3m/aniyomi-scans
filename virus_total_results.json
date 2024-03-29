@@ -5064,5 +5064,16 @@
         "file_type": "Android",
         "file_size": 75375,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.einfach-v14.7.apk",
+        "hash": "b4898aef322c9ee03494de5f6a33cff13bedc0a0f18ef92537db8775be3f86a8",
+        "link": "https://www.virustotal.com/gui/file/b4898aef322c9ee03494de5f6a33cff13bedc0a0f18ef92537db8775be3f86a8",
+        "scan_date": 1711743863,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 663017,
+        "detected_by": {}
     }
 ]
