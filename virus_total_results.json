@@ -5075,5 +5075,27 @@
         "file_type": "Android",
         "file_size": 663017,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.gogoanime-v14.82.apk",
+        "hash": "705af8ef5acb93fa33afaa252a785d1a7112513d957f0755a16b195a0b7e3243",
+        "link": "https://www.virustotal.com/gui/file/705af8ef5acb93fa33afaa252a785d1a7112513d957f0755a16b195a0b7e3243",
+        "scan_date": 1712361890,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 78464,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.oppaistream-v14.4.apk",
+        "hash": "7575a7f19164e4aa0365db099d83fb18005ab77db7776669c42844fe6c7f5133",
+        "link": "https://www.virustotal.com/gui/file/7575a7f19164e4aa0365db099d83fb18005ab77db7776669c42844fe6c7f5133",
+        "scan_date": 1712350542,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 70834,
+        "detected_by": {}
     }
 ]
