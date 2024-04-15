@@ -5108,5 +5108,27 @@
         "file_type": "Android",
         "file_size": 92508,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.sudatchi-v14.1.apk",
+        "hash": "aa1db118cf1704439ea263b1ede1b4b8d7d8400d4216bc814bd0d2531234d3fc",
+        "link": "https://www.virustotal.com/gui/file/aa1db118cf1704439ea263b1ede1b4b8d7d8400d4216bc814bd0d2531234d3fc",
+        "scan_date": 1713041326,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 93484,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ru.animelib-v14.1.apk",
+        "hash": "1dd7116b4d8b21be1e5b99c0006c0e3670021c84f2bad260de2213b7a2d45eef",
+        "link": "https://www.virustotal.com/gui/file/1dd7116b4d8b21be1e5b99c0006c0e3670021c84f2bad260de2213b7a2d45eef",
+        "scan_date": 1712693439,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 92663,
+        "detected_by": {}
     }
 ]
