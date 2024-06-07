@@ -6285,5 +6285,16 @@
         "file_type": "Android",
         "file_size": 87307,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-de.animeloads-v14.15.apk",
+        "hash": "eaf06261902767cd4bcf76169743c82ce9a3501dbfb77d677ddff8e4e1154df7",
+        "link": "https://www.virustotal.com/gui/file/eaf06261902767cd4bcf76169743c82ce9a3501dbfb77d677ddff8e4e1154df7",
+        "scan_date": 1717791869,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 130357,
+        "detected_by": {}
     }
 ]
