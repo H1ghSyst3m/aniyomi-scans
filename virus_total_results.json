@@ -6296,5 +6296,27 @@
         "file_type": "Android",
         "file_size": 130357,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.minioppai-v14.8.apk",
+        "hash": "55972c3e63c5a908d2d7611819cf23a5587ffd01cf1392f1a158dee77b4fb657",
+        "link": "https://www.virustotal.com/gui/file/55972c3e63c5a908d2d7611819cf23a5587ffd01cf1392f1a158dee77b4fb657",
+        "scan_date": 1718846650,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 102878,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-tr.anizm-v14.21.apk",
+        "hash": "f7d3bfba0ba4e7b49834c1db413f5f0faf52f95b9c5a2306c0832858faa3dbb0",
+        "link": "https://www.virustotal.com/gui/file/f7d3bfba0ba4e7b49834c1db413f5f0faf52f95b9c5a2306c0832858faa3dbb0",
+        "scan_date": 1718846925,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 121115,
+        "detected_by": {}
     }
 ]
