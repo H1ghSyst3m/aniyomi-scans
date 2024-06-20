@@ -7275,5 +7275,216 @@
         "file_type": "Android",
         "file_size": 66359,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.hentaisaturn-v14.5.apk",
+        "hash": "61edb0f693f7704e89ff3ff135dc5ae94e2abf12691cb5537eb10a0714a5e879",
+        "link": "https://www.virustotal.com/gui/file/61edb0f693f7704e89ff3ff135dc5ae94e2abf12691cb5537eb10a0714a5e879",
+        "scan_date": 1718850176,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 88326,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animefire-v14.7.apk",
+        "hash": "cce328284aef85c09c6308d71c36fd4f43a7a029796635dbbbaa8570170d4683",
+        "link": "https://www.virustotal.com/gui/file/cce328284aef85c09c6308d71c36fd4f43a7a029796635dbbbaa8570170d4683",
+        "scan_date": 1718849487,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 93333,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.animesaturn-v14.8.apk",
+        "hash": "c4aef392efe22a493a30c0e7e832af93b183d0d6c3f59dc59f789d6fc7b734b4",
+        "link": "https://www.virustotal.com/gui/file/c4aef392efe22a493a30c0e7e832af93b183d0d6c3f59dc59f789d6fc7b734b4",
+        "scan_date": 1718849592,
+        "positives": 1,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67290,
+        "detected_by": {
+            "VirIT": "Trojan.Win32.MSIL_Heur.A"
+        }
+    },
+    {
+        "filename": "aniyomi-ar.egydead-v14.12.apk",
+        "hash": "d87b65fe6e8e99ac7058e8603692ccff2befe1d1e6851a531b0f7efcaeb37587",
+        "link": "https://www.virustotal.com/gui/file/d87b65fe6e8e99ac7058e8603692ccff2befe1d1e6851a531b0f7efcaeb37587",
+        "scan_date": 1718849594,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 63795,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.googledriveindex-v14.7.apk",
+        "hash": "a563be3ab00c91b4a7fe3213da4804dcd4f73e5534d8a33e9aa80caf31062323",
+        "link": "https://www.virustotal.com/gui/file/a563be3ab00c91b4a7fe3213da4804dcd4f73e5534d8a33e9aa80caf31062323",
+        "scan_date": 1718849608,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65955,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.hentaistube-v14.3.apk",
+        "hash": "d572d783a5861d205de05a1ce0aa65ed0b4046fca0f39ad4a03a957e1de46f29",
+        "link": "https://www.virustotal.com/gui/file/d572d783a5861d205de05a1ce0aa65ed0b4046fca0f39ad4a03a957e1de46f29",
+        "scan_date": 1718849765,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 79424,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pl.desuonline-v14.8.apk",
+        "hash": "2152cb05d4b3565588be4b4b170e779186ea0427862007dfc915fc91dcb9aaa5",
+        "link": "https://www.virustotal.com/gui/file/2152cb05d4b3565588be4b4b170e779186ea0427862007dfc915fc91dcb9aaa5",
+        "scan_date": 1718849767,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 91325,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-fr.animesama-v14.10.apk",
+        "hash": "fe92ed3a35fb16b486f1b467c21edaa31800772ae8c9c962b3d3c76883c6b704",
+        "link": "https://www.virustotal.com/gui/file/fe92ed3a35fb16b486f1b467c21edaa31800772ae8c9c962b3d3c76883c6b704",
+        "scan_date": 1718849768,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 74599,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.nimegami-v14.3.apk",
+        "hash": "53d1cbe6701e281951bc811431b1a4faed6ac83d64708a155da238dd8657c1b0",
+        "link": "https://www.virustotal.com/gui/file/53d1cbe6701e281951bc811431b1a4faed6ac83d64708a155da238dd8657c1b0",
+        "scan_date": 1718849772,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 758101,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesgratis-v14.12.apk",
+        "hash": "b2253d9ef192d7b899d091b97b74959719210260d8d5715c8fd2cc9c1d4ecaf3",
+        "link": "https://www.virustotal.com/gui/file/b2253d9ef192d7b899d091b97b74959719210260d8d5715c8fd2cc9c1d4ecaf3",
+        "scan_date": 1718849773,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 87970,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.animexin-v14.11.apk",
+        "hash": "4653c5531d1215060723c9d88bb94f9c9d909da1a4ffbcf1414fc44cd6b3d49d",
+        "link": "https://www.virustotal.com/gui/file/4653c5531d1215060723c9d88bb94f9c9d909da1a4ffbcf1414fc44cd6b3d49d",
+        "scan_date": 1718849777,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 719780,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-it.vvvvid-v14.1.apk",
+        "hash": "967da4153bac2c1a0986752d43e37fccead41d2b9207754531eb3f9c45268def",
+        "link": "https://www.virustotal.com/gui/file/967da4153bac2c1a0986752d43e37fccead41d2b9207754531eb3f9c45268def",
+        "scan_date": 1718849779,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 74280,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.animesdigital-v14.4.apk",
+        "hash": "a4ec0de8e5055fce01f2504e7f65ec50071064e6ce84b206efd2d1c19a8b7319",
+        "link": "https://www.virustotal.com/gui/file/a4ec0de8e5055fce01f2504e7f65ec50071064e6ce84b206efd2d1c19a8b7319",
+        "scan_date": 1718849781,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 138997,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.witanime-v14.49.apk",
+        "hash": "fa9a0ceb4e29525464b10e30c8e8e3d3e51423a265195e80abc3a670c61925fa",
+        "link": "https://www.virustotal.com/gui/file/fa9a0ceb4e29525464b10e30c8e8e3d3e51423a265195e80abc3a670c61925fa",
+        "scan_date": 1718849786,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 86478,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.pifansubs-v14.21.apk",
+        "hash": "d0b4dbc74bc14e79bbf136fec9cc51986d52b7e1ffd3c5bdbc1fe77bd661813e",
+        "link": "https://www.virustotal.com/gui/file/d0b4dbc74bc14e79bbf136fec9cc51986d52b7e1ffd3c5bdbc1fe77bd661813e",
+        "scan_date": 1718849788,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 69495,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-ar.mycima-v14.22.apk",
+        "hash": "b792c2f07469048f87265be8d52ab396bd360e47ebd3dcd1a5724254b47b4cc0",
+        "link": "https://www.virustotal.com/gui/file/b792c2f07469048f87265be8d52ab396bd360e47ebd3dcd1a5724254b47b4cc0",
+        "scan_date": 1718849789,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 62777,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-id.otakudesu-v14.25.apk",
+        "hash": "d1671a635b509c3c890046827f16208488ebf727eb26abb2f5bdf644f40df4e2",
+        "link": "https://www.virustotal.com/gui/file/d1671a635b509c3c890046827f16208488ebf727eb26abb2f5bdf644f40df4e2",
+        "scan_date": 1718849791,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 72939,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.nollyverse-v14.3.apk",
+        "hash": "0888433c5fabcb0e4577ea9134f36a8f33b976148af4ba976ca2a17bd7980dd7",
+        "link": "https://www.virustotal.com/gui/file/0888433c5fabcb0e4577ea9134f36a8f33b976148af4ba976ca2a17bd7980dd7",
+        "scan_date": 1715996164,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 184626,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-en.animension-v14.20.apk",
+        "hash": "42b8faa7365329f890b273ff6ff685598598ca437f5c39a8dc194788f66ebd17",
+        "link": "https://www.virustotal.com/gui/file/42b8faa7365329f890b273ff6ff685598598ca437f5c39a8dc194788f66ebd17",
+        "scan_date": 1708499887,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 45319,
+        "detected_by": {}
     }
 ]
