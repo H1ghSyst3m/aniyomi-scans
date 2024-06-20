@@ -7486,5 +7486,27 @@
         "file_type": "Android",
         "file_size": 45319,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-pt.flixei-v14.7.apk",
+        "hash": "4ba4afd5995edf2c5df84155e6cb1fff4fcf06cb5ce5b641a9855715f94a3a83",
+        "link": "https://www.virustotal.com/gui/file/4ba4afd5995edf2c5df84155e6cb1fff4fcf06cb5ce5b641a9855715f94a3a83",
+        "scan_date": 1718911285,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 56658,
+        "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-uk.ufdub-v14.1.apk",
+        "hash": "21efbf38c7457fbf32efa55503007eb6ab23b28497a6ac8d8e96d2822d17314d",
+        "link": "https://www.virustotal.com/gui/file/21efbf38c7457fbf32efa55503007eb6ab23b28497a6ac8d8e96d2822d17314d",
+        "scan_date": 1718911287,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 44502,
+        "detected_by": {}
     }
 ]
