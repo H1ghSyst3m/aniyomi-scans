@@ -6307,5 +6307,16 @@
         "file_type": "Android",
         "file_size": 105240,
         "detected_by": {}
+    },
+    {
+        "filename": "aniyomi-all.jellyfin-v14.17.apk",
+        "hash": "54e76891daf987e53f671fd86a4ce2a409666e38b5b81b30dee2973f7520085e",
+        "link": "https://www.virustotal.com/gui/file/54e76891daf987e53f671fd86a4ce2a409666e38b5b81b30dee2973f7520085e",
+        "scan_date": 1719792006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 418755,
+        "detected_by": {}
     }
 ]
